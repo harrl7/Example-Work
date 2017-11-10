@@ -1,4 +1,4 @@
-# Example-Work
+# Example Work
 
 Visual Testing Suite
 
