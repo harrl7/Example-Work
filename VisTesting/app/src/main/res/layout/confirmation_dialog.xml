@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorLight"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:text="Message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMessage"
+            android:textSize="36sp"
+            android:textColor="@color/colorDark"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorAccent">
+        </View>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp">
+
+            <Button
+                android:text="No"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/btnNegative"
+                android:layout_weight="1"
+                android:textSize="40sp"
+                android:background="@drawable/btn_style"
+                android:layout_margin="10dp"
+                android:textColor="@color/colorLight"
+                android:fontFamily="sans-serif" />
+
+            <Button
+                android:text="Yes"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/btnPositive"
+                android:layout_weight="1"
+                android:textSize="40sp"
+                android:background="@drawable/btn_style"
+                android:layout_margin="10dp"
+                android:textColor="@color/colorLight"
+                android:fontFamily="sans-serif" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
