@@ -1,0 +1,14 @@
+D:\Example-Work\Boids\Boids\bin\Debug\Boids.exe.config
+D:\Example-Work\Boids\Boids\bin\Debug\Boids.exe
+D:\Example-Work\Boids\Boids\bin\Debug\Boids.pdb
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.csprojResolveAssemblyReference.cache
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.Form1.resources
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.Properties.Resources.resources
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.csproj.GenerateResource.Cache
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.exe
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.pdb
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+D:\Example-Work\Boids\Boids\bin\Debug\Boids.exe.manifest
+D:\Example-Work\Boids\Boids\bin\Debug\Boids.application
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.exe.manifest
+D:\Example-Work\Boids\Boids\obj\Debug\Boids.application
