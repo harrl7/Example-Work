@@ -1,0 +1,10 @@
+D:\Example-Work\Fractals\harrl7Fractals\bin\Release\harrl7Fractals.exe.config
+D:\Example-Work\Fractals\harrl7Fractals\bin\Release\harrl7Fractals.exe
+D:\Example-Work\Fractals\harrl7Fractals\bin\Release\harrl7Fractals.pdb
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.csprojResolveAssemblyReference.cache
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.Form1.resources
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.Properties.Resources.resources
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.csproj.GenerateResource.Cache
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.csproj.CoreCompileInputs.cache
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.exe
+D:\Example-Work\Fractals\harrl7Fractals\obj\Release\harrl7Fractals.pdb
