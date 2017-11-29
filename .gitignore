@@ -54,5 +54,7 @@ freeline.py
 freeline/
 freeline_project_description.json
 
-# Vis Testing Release
+# Android Release
 !visual_testing.apk
+!quiz.apk
+
